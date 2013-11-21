@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   SetConsoleOutputCP(1251)
-  int a;
+  int a, b;
   cout << "Введите значение а" << endl;
   cin >> a;
 }
