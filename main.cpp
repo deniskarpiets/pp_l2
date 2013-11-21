@@ -6,4 +6,5 @@ int main()
   SetConsoleOutputCP(1251)
   int a;
   cout << "Введите значение а" << endl;
+  cin >> a;
 }
