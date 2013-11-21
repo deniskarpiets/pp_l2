@@ -12,5 +12,6 @@ int main()
   cout << "Введите значение b" << endl;
   cin >> b;
   x = a/b;
-  
+  cout << "Ответ: x= " << x << endl;
+  return 0;
 }
