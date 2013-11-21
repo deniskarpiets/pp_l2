@@ -4,5 +4,5 @@ using namespace std;
 int main()
 {
   SetConsoleOutputCP(1251)
-  
+  int a;
 }
