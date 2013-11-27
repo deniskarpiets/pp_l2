@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-  SetConsoleOutputCP(1251)
+  SetConsoleOutputCP(1251);
   int a, b;
   float x;
   cout << "Попробуем решить простое уравнение a/b:" << endl;
